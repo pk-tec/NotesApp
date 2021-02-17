@@ -1,5 +1,5 @@
 # NotesApp - NodeJs app
-\nCreate notes
-\nDelete notes
-\nList notes
-\nRead notes
+1.Create notes
+2.Delete notes
+3.List notes
+4.Read notes
